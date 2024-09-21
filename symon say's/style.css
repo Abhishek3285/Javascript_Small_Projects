@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+.container {
+  width: 30vw;
+  margin: auto;
+}
+
+.btn-boxes {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.btns {
+  margin: 10px;
+  width: 90px;
+  height: 90px;
+  border: 2px solid black;
+  border-radius: 12px;
+  cursor: pointer;
+}
+.brown {
+  background-color: brown;
+}
+.chartreuse {
+  background-color: chartreuse;
+}
+.yellow {
+  background-color: yellow;
+}
+.darkGreen {
+  background-color: rgb(25, 40, 3);
+}
+.flash {
+  background-color: white;
+}
+.userFlash {
+  background-color: green;
+}
